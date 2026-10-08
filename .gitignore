@@ -1,0 +1,6 @@
+# Ignore generated plots
+*.png
+
+# Ignore Python cache
+__pycache__/
+*.pyc
